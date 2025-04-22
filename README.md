@@ -4,7 +4,7 @@
 
 This project implements two custom Unix-like commands for the xv6 operating system: `head` and `uniq`. These were developed in **user space**, tested on **xv6-public**, and compiled using `make qemu-nox`.
 
-Due to integration errors in kernel mode, both commands are implemented as user programs in xv6 and tested using sample inputs with screenshots included.
+
 
 ---
 
